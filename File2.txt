@@ -12,3 +12,5 @@ This is test line 1.
 Branch test 1
 
 branch test 2
+
+Cloud test local
