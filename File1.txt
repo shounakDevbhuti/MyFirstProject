@@ -6,4 +6,8 @@ change 2
 
 change 3
 
+<<<<<<< HEAD
 Remote test change 4
+=======
+Rebase check
+>>>>>>> bug456
